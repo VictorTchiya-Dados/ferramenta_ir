@@ -51,5 +51,7 @@ Fórmulas: utilização da função SOMA para totalização automática dos valo
 <img width="658" height="411" alt="Captura de tela 2026-10-30 200135" src="https://github.com/user-attachments/assets/b68e3fb1-a71e-488f-a556-4892c644421f" />
 <br> <br> 
 
-Para acessar o arquivo 
+**Acesso a ferramenta**
+
+[📊 Clique aqui para acessar a Ferramenta de Imposto de Renda](https://github.com/VictorTchiya-Dados/ferramenta_ir/blob/main/Ferramenta%20de%20I.R.xlsx)
 
